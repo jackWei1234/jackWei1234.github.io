@@ -15,6 +15,11 @@ h3{
 
 
 }
+.group2{
+  color: #300dc9;
+}
 .group1{
     color: blueviolet;
+    background-color: aquamarine;
+    border-radius: 100px;
 }
