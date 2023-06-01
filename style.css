@@ -1,25 +1,29 @@
-span{
-    color: blue;
+span {
+  color: blue;
 }
-h1{
-    color: blue;
+
+h1 {
+  color: blue;
 }
-button{
-    color: rgb(6, 80, 55);
+
+button {
+  color: rgb(6, 80, 55);
 }
-h3{
-    color: aqua;
+
+h3 {
+  color: aqua;
 }
+
 #second_h2 {
-    color: #300dc9
-
-
+  color: #300dc9
 }
-.group2{
+
+.group2 {
   color: #300dc9;
 }
-.group1{
-    color: blueviolet;
-    background-color: aquamarine;
-    border-radius: 100px;
+
+.group1 {
+  color: blueviolet;
+  background-color: aquamarine;
+  border-radius: 100px;
 }
