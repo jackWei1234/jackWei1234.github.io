@@ -28,3 +28,32 @@
   margin-bottom: 325px;
   background-size: cover;
 }
+
+#nature {
+  position: absolute;
+  width: 71px;
+  height: 21px;
+  background: #13c2c2;
+  border-radius: 10.5px;
+  margin-top: 295px ;
+  margin-left: 18px;
+  padding-top: 3px;
+  padding-left: 16px;
+  padding-bottom: 3px;
+  padding-right: 16pxd;
+  color: white;
+}
+#lake {
+  position: absolute;
+  width: 71px;
+  height: 21px;
+  background: #1890ff;
+  border-radius: 10.5px;
+  margin-top: 295px;
+  margin-left: 96px;
+  padding-top: 3px;
+  padding-left: 22px;
+  padding-bottom: 3px;
+  padding-right: 22pxd;
+  color: white;
+}
